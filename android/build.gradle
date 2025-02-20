@@ -1,4 +1,4 @@
-group 'com.flutter.moum.screenshot_callback'
+group 'com.hecklr.mobile'
 version '1.0'
 
 buildscript {
